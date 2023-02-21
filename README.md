@@ -6,11 +6,11 @@ I am software developer specializing in Front Web in React.
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mareksmatesa)
 ---
 ## TOP 3 projects
-[!(https://img.shields.io/badge/Project-1-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Redux-Toolkit-LocalStorage/animal-filter)
+[![](https://img.shields.io/badge/Project-1-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Redux-Toolkit-LocalStorage/animal-filter)
 React Animal filter page that allows you to make list of animals which is stored in LocalStorage. Form to add animals and select spiecie form existing or add new. Also to filter list with available species.
-[!(https://img.shields.io/badge/Project-2-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Rick-and-Morty-React)
+[![](https://img.shields.io/badge/Project-2-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Rick-and-Morty-React)
 Rick and Morty API page with list of characters, page eith single character, episodes and locations.
-[!(https://img.shields.io/badge/Project-3-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Rock-Paper-Scissors)
+[![](https://img.shields.io/badge/Project-3-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Rock-Paper-Scissors)
 React RPS game localised for 3 languages. Home page, Game page, List of all players and page with statistics. Used MongoDB for data storing.
 ---
 ## 🧰 Tools and languages
