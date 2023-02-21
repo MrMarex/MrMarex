@@ -10,7 +10,7 @@ I am software developer specializing in Front Web in React.
 React Animal filter page that allows you to make list of animals which is stored in LocalStorage. Form to add animals and select spiecie form existing or add new. Also to filter list with available species.<br />
 [![](https://img.shields.io/badge/Project-2-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Rick-and-Morty-React)<br />
 Rick and Morty API page with list of characters, page eith single character, episodes and locations.<br />
-[![](https://img.shields.io/badge/Project-3-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Rock-Paper-Scissors)
+[![](https://img.shields.io/badge/Project-3-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Rock-Paper-Scissors)<br />
 React RPS game localised for 3 languages. Home page, Game page, List of all players and page with statistics. Used MongoDB for data storing.<br />
 ---
 ## 🧰 Tools and languages
