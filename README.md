@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mareks Mateša
+# Hi there 👋 I'm Mareks Mateša
 ---
 I am software developer specializing in Front Web in React.
 ---
