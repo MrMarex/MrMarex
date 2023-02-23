@@ -3,7 +3,7 @@
 I am software developer specializing in Front Web in React.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mareksmatesa)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mareksmatesa)
 
 ## TOP 3 projects
 [![](https://img.shields.io/badge/Project-1-red?style=for-the-badge&logo=github)](https://github.com/MrMarex/CodelexHW/tree/main/Redux-Toolkit-LocalStorage/animal-filter)<br />
